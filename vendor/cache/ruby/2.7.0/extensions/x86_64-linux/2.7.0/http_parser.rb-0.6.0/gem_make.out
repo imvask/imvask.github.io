@@ -1,0 +1,16 @@
+current directory: /home/vask/imvask.github.io/vendor/cache/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/bin/ruby2.7 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20231010-12425-12d2u6p.rb extconf.rb
+creating Makefile
+
+current directory: /home/vask/imvask.github.io/vendor/cache/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= clean
+
+current directory: /home/vask/imvask.github.io/vendor/cache/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\=
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/vask/imvask.github.io/vendor/cache/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20231010-12425-1w3d9si
